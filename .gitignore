@@ -164,3 +164,8 @@ cython_debug/
 #.idea/
 
 # Directories
+models/
+input_videos/
+output_videos/
+training/
+.idea/
